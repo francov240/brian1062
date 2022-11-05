@@ -15,5 +15,6 @@ Here are some ideas to get you started:
    <a href="https://www.instagram.com/brian.gerard"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
    <a href="https://twitter.com/brian_gerard"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
    <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  
 </p>
+📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brian1062&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
