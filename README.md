@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
   ![](https://komarev.com/ghpvc/?username=brian1062&color=orange&style=plastic)
-- 🌱 I’m currently live in Córdoba, Argentina.
+- 🌱 I currently live in Córdoba, Argentina.
 - 📚 I’m currently studying Computer Engineering at the National University of Cordoba.
-- 🌱 I’m interested in learning kotlin for mobile development.
+- 💻 I’m interested in learning kotlin for mobile development.
 ## :link: Links
 <p align="center">
    <a href="mailto:bgerard1062@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
