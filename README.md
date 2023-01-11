@@ -14,7 +14,7 @@ Here are some ideas to get you started:
    <a href="mailto:bgerard1062@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
    <a href="https://www.instagram.com/brian.gerard"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
    <a href="https://twitter.com/brian_gerard"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-   <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.linkedin.com/in/brian-gerard-143803261/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ------------
